@@ -7,3 +7,7 @@ properties manager framework
 ```bash
 go get github.com/hgoo/resources
 ```
+
+
+## License
+See [LICENSE](https://github.com/hgoo/hgoo-example/blob/master/LICENSE).
